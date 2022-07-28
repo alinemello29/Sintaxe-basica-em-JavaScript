@@ -1,0 +1,2 @@
+# Sintaxe básica javascript
+
