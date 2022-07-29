@@ -8,7 +8,7 @@ function calculadora() {
    //verificando se a operação e válida
    if(!opracao || operacao >= 7) {
     alert('erro -operação inválida');
-    calculadora();
+    calculadora(); 
 } else {
 
     //definindo variáveis 
