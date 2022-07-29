@@ -114,7 +114,7 @@ function calculadora() {
         case 6:
             potenciacao();
             break;
-    }
+    } 
 }
 
 calculadora(); */  
